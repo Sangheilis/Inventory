@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ff9fe5a56c1befd4b80b1ead4762a8bc
+  m_SerializeEntries:
+  - m_GUID: a4444fc8461f97043b561f2cf31c80e8
+    m_Address: Leather%helmet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 13478aa2f3c7e46479a84f268ff943a3
+    m_Address: Potion%of%great%healing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: e6063cd7df11b424a8250c73f5d7a239
+    m_Address: Venom%arrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 3848217aaef08b24a8b3cd8740b58fc6
+    m_Address: Potion%of%healing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: b80a2815d55d6884d8912fab1dec5536
+    m_Address: Spear
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: ceab7aa45d995bc40bdd177b54d15c2f
+    m_Address: Pickaxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: ec704c92d5f542e4a9be24fc96ceeb3b
+    m_Address: Robe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 1c327b5ed65a03f42ad1014df4cd3e60
+    m_Address: Boots
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 2c7a184e0cbaa714bb5ae4207dbad610
+    m_Address: Staff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 6a2e765649566104498985ab7a0e5ef0
+    m_Address: Ring
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: e7cd91df0e2add646a6f73c2eb0e6b20
+    m_Address: Shovel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 44f3554ef82c2c1468a309ae06f52eab
+    m_Address: Long%bow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: e9ac78156ddfba840a14ded6d31bfa64
+    m_Address: Key
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 213efef87fc7d314a87c82173eea26ea
+    m_Address: Steak
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 9356abe2985bffe49abc200555474a59
+    m_Address: Long%sword
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 34d20b2c594c23f40a85237c53ee1795
+    m_Address: Potion%of%stamina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 767c72653f3c774409bb496bc05994d9
+    m_Address: Shield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: abe7db841958cde4eaf9155cfb754932
+    m_Address: Leather%armor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 89958012c9ff2ea47887f78809597508
+    m_Address: Talisman
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 86c8e75cf2021cd4b91e454aa60b3c5b
+    m_Address: Potion%of%mana
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: ccef4ef8df8a3804bb318accb765069f
+    m_Address: Staff%of%fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 3b2e2579d9356634ab59ad3d4df21f44
+    m_Address: Sunflower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: c36e713cd509f8c40a57810b3ef43e03
+    m_Address: Carrot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: ff6de99e8080ca04fac1113d35389ca1
+    m_Address: Dagger%of%venom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: d8a54249920955f4eb4cc2d3cd56259d
+    m_Address: Great%sword
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: daacbc5f317390245bf972f88d10789d
+    m_Address: Arrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 7837ed057fe6ab7488aa9c252c651298
+    m_Address: Axe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 459b6d03bb18acf4187e0e6662aba80f
+    m_Address: Adamantine%armor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 12dd2ea56716df649ac85e3bf848007d
+    m_Address: Gemstone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: d05baac7ff76e714faf2564ebeef8cf3
+    m_Address: Fish
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: fa76499195b6d8844bb7dfce0ef548a1
+    m_Address: Chest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: a346b98e10e72d84bbe08f6af377008d
+    m_Address: Apple
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: b4bc110f50564fa40847c3eab73d02a0
+    m_Address: Coins
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 365716d4e150b7b46ae8d669a5c41687
+    m_Address: Rage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: a5e3e547e4efeec429df556c9ba9f6e9
+    m_Address: Sword%strike
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 04ad031d971bfc14ba8aeaa39fec6565
+    m_Address: Jelly%blob
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: e3c5c8a5ea6585c40acf39f266da3fd4
+    m_Address: Sight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 63b42038163a60d4ea8557a98a895c81
+    m_Address: Settings
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 919c70886e656cc4f9a503f3c95ad58e
+    m_Address: True%sight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 9135a252ddc11d74b916dcb114b471f1
+    m_Address: Save
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: b07f6486cd5b5ca488def38dadd26a62
+    m_Address: Water
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 1069561a2da8120468ca2648d58026b3
+    m_Address: Mushroom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 9fd36041fe851ff4aac0f029f674d09e
+    m_Address: Axe%strike
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 3e2cf72b767fa254d8e6d4d441a7d965
+    m_Address: Healing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 4bc12ee93b5037e46bc0b17879abb0c3
+    m_Address: Fire%sword%strike
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: ca02de197068b8840b7d06e1adf780f3
+    m_Address: Bleed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: a9b716b1141ae664885cb73615174da8
+    m_Address: Earth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 734a81c4691903443a8dc8b2290296f0
+    m_Address: Dialog
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 52859110ab02811458f6ee2299acd62e
+    m_Address: Heart
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: f195207357f853f49b5862b2b9ecd9b2
+    m_Address: Fireball
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: a03ab182b21d4fe4abe99e50eb3633b6
+    m_Address: Block
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  - m_GUID: 70d165f40e89ccc4d950be4083fec0ed
+    m_Address: Defense%up
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 15dc0b54dd616ef46b0eb78de5333668, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fec9b1f9dba1b2649823ef5a8d9a08d2, type: 2}
+    - {fileID: 11400000, guid: 3e7c8a29e40a82548942a535d32a5e78, type: 2}
